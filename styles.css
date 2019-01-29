@@ -19,7 +19,10 @@ body {
     clear: both;
   }
   
-  h1,
+  h1
+  {
+    
+  }
   h2,
   h3,
   p {
@@ -139,7 +142,7 @@ body {
   .work {
     position: relative;
     float: left;
-    width: 274px;
+    width: 200px;
     margin: 20px 0 25px;
     overflow: auto;
   }
@@ -169,7 +172,7 @@ body {
   }
   
   .auth-image {
-    float: left;
+    float: right;
     width: 200px;
     height: auto;
     margin-top: 10px;
